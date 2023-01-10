@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Floral_Garden/static/css/main.1aa5e492.css",
+    "main.js": "/Floral_Garden/static/js/main.083d5d6f.js",
+    "static/media/bqt_logo.jpg": "/Floral_Garden/static/media/bqt_logo.57716d2e75c4da4f4b39.jpg",
+    "index.html": "/Floral_Garden/index.html",
+    "main.1aa5e492.css.map": "/Floral_Garden/static/css/main.1aa5e492.css.map",
+    "main.083d5d6f.js.map": "/Floral_Garden/static/js/main.083d5d6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aa5e492.css",
+    "static/js/main.083d5d6f.js"
+  ]
+}
